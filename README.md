@@ -21,7 +21,7 @@ YAGO11k
 ```
 python main.py --model SANe --name yago --lr 0.001 --data yago --ker_sz 5 --train_strategy one_to_x --treg 5e-6
 ```
-Wikida12k
+Wikidata12k
 ```
 python main.py --model SANe --name wiki --lr 0.001 --data wikidata --ker_sz 5 --train_strategy one_to_x --treg 5e-4
 ```
