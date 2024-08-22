@@ -1,9 +1,9 @@
 # LGRe
 Temporal Knowledge Graph Completion.
 
-The official code of LGRe submitted to ICONIP 2024
+The official code of LGRe accepted in ICONIP 2024.
 
-Learning Granularity Representation for Temporal Knowledge Graph Completion (Submitted)
+Learning Granularity Representation for Temporal Knowledge Graph Completion.
 
 ## Commands
 ### Training and Testing:
@@ -30,10 +30,12 @@ The basic framework of our code is referenced from SANe, and the original datase
 
 ## Citation
 ```
-@article{zhang-etal-2024-lgre,
-title = {Learning Granularity Representation for Temporal Knowledge Graph Completion},
-year = {2024},
-author = {Jinchuan Zhang, Ming Sun, Qian Huang, Ling Tian},
-keywords = {Temporal Knowledge Graph; Knowledge Graph Completion; Representation Learning; Link Prediction}
+@inproceedings{zhang-etal-2024-lgre,
+  title={Learning Granularity Representation for Temporal Knowledge Graph Completion},
+  author = {Jinchuan Zhang, Ming Sun, Qian Huang, Ling Tian},
+  keywords = {Temporal Knowledge Graph; Knowledge Graph Completion; Representation Learning; Link Prediction},
+  booktitle={Neural Information Processing: 31th International Conference, ICONIP 2024, Auckland, New Zealand, December 2--6, 2024},
+  year={2024},
+  organization={Springer}
 }
 ```
