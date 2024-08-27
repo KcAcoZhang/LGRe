@@ -32,7 +32,7 @@ The basic framework of our code is referenced from SANe, and the original datase
 ```
 @inproceedings{zhang-etal-2024-lgre,
   title={Learning Granularity Representation for Temporal Knowledge Graph Completion},
-  author = {Jinchuan Zhang, Ming Sun, Qian Huang, Ling Tian},
+  author = {Jinchuan Zhang, Tianqi Wan, Chong Mu, Guangxi Lu, Ling Tian},
   keywords = {Temporal Knowledge Graph; Knowledge Graph Completion; Representation Learning; Link Prediction},
   booktitle={Neural Information Processing: 31th International Conference, ICONIP 2024, Auckland, New Zealand, December 2--6, 2024},
   year={2024},
